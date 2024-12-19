@@ -33,4 +33,4 @@ Crypto Tracker
 Utilities
 - Generic Result Wrapper: Efficient handling of success and error states.
 - Icon Mapping: Custom SVG icons mapped to cryptocurrency symbols.
-- API: CoinCap API for real-time cryptocurrency data.
+- API: [CoinCap API](https://docs.coincap.io/) for real-time cryptocurrency data.
