@@ -4,6 +4,8 @@ This app allows users to track the top 100 cryptocurrencies with real-time price
 
  Jetpack Compose, Material 3 Design, and modern libraries like Koin, Ktor, and Kotlinx Serialization.
 
+ ## Preview
+
  ## 🔧 Tech Stack
 
 | **Component**                           | **Details**                        |
@@ -16,6 +18,7 @@ This app allows users to track the top 100 cryptocurrencies with real-time price
 | **Material Design**                     | Material 3 (Dynamic Colors)        |
 
 Note: Ktor Client for network requests to CoinCap API.
+parsed JSON responses from API using kotlin-axe serialization.
 
 ## 📁 Project Structure
 
