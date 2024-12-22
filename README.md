@@ -4,6 +4,8 @@ This app allows users to track the top 100 cryptocurrencies with real-time price
 
  Jetpack Compose, Material 3 Design, and modern libraries like Koin, Ktor, and Kotlinx Serialization.
 
+ Also MVI architecture
+
  ## Preview
 
  ## 🔧 Tech Stack
